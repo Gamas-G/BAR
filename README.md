@@ -1,6 +1,7 @@
 # BAR
 Buscador de Archivos Remoto
 ESPERO QUE SEA DE UTILIDAD Y DE SU AGRADO!!!!!!!!!!!!!!!!!!!!
+
 Requerimientos para este programa:
 Se requiere el uso del protocolo ssh, para este programa se uso OPEN SSH de Windows
 En la PC que se usara como PC cliente Admi solo debe activarse "Cliente OPEN SSH"
