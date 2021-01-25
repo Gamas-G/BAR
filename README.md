@@ -29,6 +29,7 @@ NOTA: Se requiere de mas prueba de errores.
 ![ScreenShot](https://raw.github.com/Gamas-G/BAR/master/Screen/valPass.png)
 
 En la sigueinte imagen se puede observar la carpeta que se encuentra compartida del servidor "ServHP", esta la debe de crear y compartir.
+IMPORTANTE: en la PC que decea escanear es importante que la carpeta "Users" este como compartida OJO: esto podria ser peligroso si se deja sin una buena configuracion recuerde quitar la opcion de compartida cuando termine su objetivo o bien puede de optar de una buena configuracion.
 ![ScreenShot](https://raw.github.com/Gamas-G/BAR/master/Screen/carp.png)
 
 Una vez establecido el Servidor se abrira la ventana de inicio.
