@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BAR.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Servidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="Configuracion" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CarpetaServ" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sin Asignar</Value>
+    </Setting>
+    <Setting Name="Predeterminado" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="NameServidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sin Asignar</Value>
+    </Setting>
+    <Setting Name="PwdServidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sin Asignar</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
